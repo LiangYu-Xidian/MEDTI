@@ -1,0 +1,11 @@
+org=protein
+model_type=mda
+select_arch=[1]
+ofile_keywords=all_nets
+epochs=100
+batch_size=64
+K=3
+alpha=0.9
+noise_factor=0.5
+models_path=test_data/test_models/
+results_path=test_data/test_results/
